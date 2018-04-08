@@ -25,6 +25,7 @@
 
     <modules>
         <module>restaurant-service</module>
+        <module>eureka-service</module>
     </modules>
 
 
