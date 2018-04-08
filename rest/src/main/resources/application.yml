@@ -1,0 +1,8 @@
+## YAML Template.
+
+server:
+    port: 8000
+
+logging:
+    level:
+      org.springframework: INFO
